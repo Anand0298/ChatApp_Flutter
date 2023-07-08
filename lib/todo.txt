@@ -1,0 +1,4 @@
+todo list
+1.add firebase as a backend for android
+2.add firebase as a backend for ios
+3.add firebase as a backend for webapp
